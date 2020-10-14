@@ -528,7 +528,7 @@ class EquationsManager{
             {t:'exp',f:F.Exp},
             {t:'log',f:F.Log},
             {t:'abs',f:F.Abs},
-            {t:'D',f:F.Der}
+            {t:'d',f:F.Der}
         ]
         const pow_functions: Function[] = []
 
